@@ -46,6 +46,8 @@ This creational pattern involves a single class that is responsible for creating
 
 This pattern is used to obtain the category cap values for the application. When an Instance of cap values is required, the getInstance() method is used to retrieve the cap values of the categories.
 
+![image](https://user-images.githubusercontent.com/42039081/167054107-22729404-2cf1-4f70-a109-27fb933b5cf5.png)
+
       
 
 # Chain of Responsibility :
@@ -56,9 +58,15 @@ This is a behavioral pattern.
 
 This pattern is used to validate the quantity and price of the purchase in a step-by-step manner. First, the quantity and cap of the products are validated, and then the total price of the purchase is calculated.
 
+![image](https://user-images.githubusercontent.com/42039081/167054087-e9e018be-169b-42ff-8acd-31da3d5ee991.png)
+
+
 # Factory :
 
 A Factory Method is a creational design pattern that provides an interface for creating objects in a superclass while allowing subclasses to change the type of objects created.
 
 This pattern is used to locate and read the dataset or input file. When the Handler determines which file to read, the appropriate class is implemented. The InputReader class is used to read input files, whereas the ReadData class is used to read dataset files.
+
+
+![image](https://user-images.githubusercontent.com/42039081/167054132-f5f67704-5fe5-4dcc-b958-cc9d8788cc18.png)
 
