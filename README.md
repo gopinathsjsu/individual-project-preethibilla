@@ -83,26 +83,52 @@ This pattern is used to locate and read the dataset or input file. When the Hand
 
 
 
-## TestCases
+## TestCases1 :
+
+In this test case i took the same items as in the sample input file given.
 
 ![Testcase1 1](https://user-images.githubusercontent.com/42039081/167067669-ce90d72f-c878-4144-875b-95f9a401c0b7.png)
 
+In the terminal , compile and run the java application.
+
+Copy the input file path of your choice , and enter the path in the terminal.
 
 ![Testcase1 2](https://user-images.githubusercontent.com/42039081/167067692-f81e26d7-8c3d-4626-973d-b625166529c9.png)
 
+The amount gets calculated and the output.csv file gets generated as the values given for items in input.csv are valid.
+
 ![Testcase1 3](https://user-images.githubusercontent.com/42039081/167067697-33a90892-80de-43f5-b450-92c6eba6fa4a.png)
+
+## TestCases2 :
+
+Cards.csv file contains the below card numbers.
 
 ![Testcase2 1](https://user-images.githubusercontent.com/42039081/167067703-416b53ec-ec68-4fc0-b94e-ae58021f4acd.png)
 
+In Input2.csv there is one new card which is missing in Cards.csv.
+
 ![Testcase2 2](https://user-images.githubusercontent.com/42039081/167067714-be357e5e-d825-4875-a5d7-6349c18b9c3a.png)
+
+Repeat the process of complile and run as in testcase1.
+The message of card getting added is diaplayed.
 
 ![Testcase2 3](https://user-images.githubusercontent.com/42039081/167067722-2c3773ad-03c1-409a-8961-3dff7349bb53.png)
 
+Total price of the items is displayed in Output.csv file.
+
 ![Testcase2 4](https://user-images.githubusercontent.com/42039081/167067726-8cd82cd8-ca37-4039-9baa-7559c1db9c67.png)
+
+## TestCase3 :
+
+In this test case, select the Input3.csv for compile and run of the application.
 
 ![Testcase3 1](https://user-images.githubusercontent.com/42039081/167067731-35ed7274-72af-4a34-951b-05edf9c7167e.png)
 
+After successful execution the below message is displayed in the terminal.
+
 ![Testcase3 2](https://user-images.githubusercontent.com/42039081/167067745-c8684683-1363-4c05-87f7-6596bfe19fb3.png)
+
+error.txt file gets generated as the entered item values in input file are invalid according to the cap values set.
 
 ![Testcase3 3](https://user-images.githubusercontent.com/42039081/167067762-11035b1d-7086-42c5-891a-7da76ed3441c.png)
 
