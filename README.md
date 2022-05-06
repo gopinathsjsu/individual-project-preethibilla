@@ -81,3 +81,36 @@ This pattern is used to locate and read the dataset or input file. When the Hand
 
 ![image](https://user-images.githubusercontent.com/42039081/167054132-f5f67704-5fe5-4dcc-b958-cc9d8788cc18.png)
 
+
+
+## TestCases
+
+![Testcase1 1](https://user-images.githubusercontent.com/42039081/167067669-ce90d72f-c878-4144-875b-95f9a401c0b7.png)
+
+
+![Testcase1 2](https://user-images.githubusercontent.com/42039081/167067692-f81e26d7-8c3d-4626-973d-b625166529c9.png)
+
+![Testcase1 3](https://user-images.githubusercontent.com/42039081/167067697-33a90892-80de-43f5-b450-92c6eba6fa4a.png)
+
+![Testcase2 1](https://user-images.githubusercontent.com/42039081/167067703-416b53ec-ec68-4fc0-b94e-ae58021f4acd.png)
+
+![Testcase2 2](https://user-images.githubusercontent.com/42039081/167067714-be357e5e-d825-4875-a5d7-6349c18b9c3a.png)
+
+![Testcase2 3](https://user-images.githubusercontent.com/42039081/167067722-2c3773ad-03c1-409a-8961-3dff7349bb53.png)
+
+![Testcase2 4](https://user-images.githubusercontent.com/42039081/167067726-8cd82cd8-ca37-4039-9baa-7559c1db9c67.png)
+
+![Testcase3 1](https://user-images.githubusercontent.com/42039081/167067731-35ed7274-72af-4a34-951b-05edf9c7167e.png)
+
+![Testcase3 2](https://user-images.githubusercontent.com/42039081/167067745-c8684683-1363-4c05-87f7-6596bfe19fb3.png)
+
+![Testcase3 3](https://user-images.githubusercontent.com/42039081/167067762-11035b1d-7086-42c5-891a-7da76ed3441c.png)
+
+
+
+
+
+
+
+
+
